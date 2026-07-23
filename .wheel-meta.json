@@ -1,0 +1,18 @@
+{
+  "wheel_id": 129,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-150",
+  "project": "retaining-walls-toowoomba-t-150",
+  "parent_t1_ref": "toowoombaretainingwalls-001",
+  "node_role": "buffer",
+  "money_target": "toowoombaretainingwalls.com.au",
+  "primary_kw": "retaining walls toowoomba",
+  "intended_url": "https://retaining-walls-toowoomba-t-150.surge.sh/",
+  "links": [
+    {
+      "target_url": "https://retaining-walls-toowoomba-guide.netlify.app/",
+      "anchor": "retaining walls toowoomba",
+      "rel": "follow"
+    }
+  ]
+}
