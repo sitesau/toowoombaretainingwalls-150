@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://retaining-walls-toowoomba-t-150.surge.sh/sitemap.xml
+Sitemap: http://retaining-walls-toowoomba-t-150.s3-website-ap-southeast-2.amazonaws.com/sitemap.xml
